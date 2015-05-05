@@ -1,0 +1,13 @@
+.outer th a{
+padding:4px;
+background-color: #305B99; 
+color: #fff; 
+}
+
+.outer {border: 0px solid silver;width:97%;}
+.head {background-color: #ADB7CE; padding: 4px;font-weight: normal; color:#111;}
+.even {background-color: #dfdfff; padding: 2px;}
+.odd {background-color: #f6f6f6; padding: 2px;}
+.foot {background-color: #99f; padding: 2px; font-weight: bold;}
+tr.even td {background-color: #dfdfff; padding: 2px;}
+tr.odd td {background-color: #f6f6f6; padding: 2px;}
